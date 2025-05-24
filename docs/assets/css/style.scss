@@ -1,0 +1,76 @@
+---
+---
+
+body {
+    color: #333;
+    background-color: #fefefe;
+    font-family: "Noto Sans JP", sans-serif;
+    font-size: inherit;
+    font-style: inherit;
+    font-variant: inherit;
+    font-weight: inherit;
+    letter-spacing: inherit;
+    line-height: 1.7;
+    margin: 2em auto;
+    padding: 1em;
+    max-width: 700px;
+    text-align: inherit;
+    text-indent: inherit;
+    text-shadow: inherit;
+    text-transform: inherit;
+    text-decoration: inherit;
+    white-space: inherit;
+    word-spacing: inherit;
+    word-wrap: inherit;
+    word-break: inherit;
+    border: inherit;
+    border-radius: inherit;
+    box-sizing: inherit;
+    cursor: inherit;
+}
+
+h1 {
+    color: #0066cc;
+    background-color: inherit;
+    font-family: inherit;
+    font-size: inherit;
+    font-style: inherit;
+    font-variant: inherit;
+    font-weight: inherit;
+    letter-spacing: inherit;
+    line-height: inherit;
+    margin: inherit;
+    padding: inherit inherit 0.3em inherit;
+    text-align: inherit;
+    text-indent: inherit;
+    text-shadow: inherit;
+    text-transform: inherit;
+    text-decoration: inherit;
+    white-space: inherit;
+    word-spacing: inherit;
+    word-wrap: inherit;
+    word-break: inherit;
+    border-style: inherit inherit solid inherit;
+    border-width: inherit inherit 2px inherit;
+    border-color: inherit inherit #ccc inherit;
+    border-radius: inherit;
+    box-sizing: inherit;
+    cursor: inherit;
+    + ul {
+        list-style: none;
+        padding-left: 0;
+        li {
+            margin-bottom: 0.5em;
+            a {
+                color: #0077ee;
+                text-decoration: none;
+                font-weight: bold;
+                font-size: 350px;
+                &:hover {
+                    text-decoration: underline;
+                    color: #005bb5;
+                }
+            }
+        }
+    }
+}
