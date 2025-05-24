@@ -1,5 +1,5 @@
 ---
-layout: defaultt
+layout: default
 title: About
 ---
 # このサイトについて
