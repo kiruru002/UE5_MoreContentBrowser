@@ -1,0 +1,2 @@
+# UE5_MoreContentBrowser
+MoreContentBrowser plugin
