@@ -1,4 +1,5 @@
 ---
+layout: default
 title: 製品詳細
 ---
 # 製品詳細ページ
