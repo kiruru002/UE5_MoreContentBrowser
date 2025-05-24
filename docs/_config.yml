@@ -1,5 +1,5 @@
 # https://pages.github.com/themes/
-theme: null
+theme: jekyll-theme-minimal
 
 # default
 source: docs
