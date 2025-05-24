@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: defaultt
 title: ホーム
 ---
 # ホームページ

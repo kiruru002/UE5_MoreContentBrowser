@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: defaultt
 title: 製品詳細
 ---
 # 製品詳細ページ
